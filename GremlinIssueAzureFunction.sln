@@ -6,8 +6,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinIssueAzureFunctionV4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinIssueAzureFunction.Common", "src\GremlinIssueAzureFunction.Common\GremlinIssueAzureFunction.Common.csproj", "{1F1D4C6F-8993-4997-9054-EFB406FC6B51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinIssueAzureFunctionV3", "src\GremlinIssueAzureFunctionV3\GremlinIssueAzureFunctionV3.csproj", "{FF9E6EAB-0DC0-45A8-B4B9-78828817AE1F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,7 +14,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B90D9FEE-4228-403D-B673-8BA0FF907553} = {42859F77-56FA-40B1-A62A-F0ACB1841901}
 		{1F1D4C6F-8993-4997-9054-EFB406FC6B51} = {42859F77-56FA-40B1-A62A-F0ACB1841901}
-		{FF9E6EAB-0DC0-45A8-B4B9-78828817AE1F} = {42859F77-56FA-40B1-A62A-F0ACB1841901}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B90D9FEE-4228-403D-B673-8BA0FF907553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -27,9 +24,5 @@ Global
 		{1F1D4C6F-8993-4997-9054-EFB406FC6B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F1D4C6F-8993-4997-9054-EFB406FC6B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F1D4C6F-8993-4997-9054-EFB406FC6B51}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FF9E6EAB-0DC0-45A8-B4B9-78828817AE1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF9E6EAB-0DC0-45A8-B4B9-78828817AE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF9E6EAB-0DC0-45A8-B4B9-78828817AE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF9E6EAB-0DC0-45A8-B4B9-78828817AE1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
