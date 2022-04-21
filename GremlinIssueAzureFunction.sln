@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{42859F77-56FA-40B1-A62A-F0ACB1841901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinIssueAzureFunctionV4", "src\GremlinIssueAzureFunctionV4\GremlinIssueAzureFunctionV4.csproj", "{B90D9FEE-4228-403D-B673-8BA0FF907553}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinIssueAzureFunction.Common", "src\GremlinIssueAzureFunction.Common\GremlinIssueAzureFunction.Common.csproj", "{1F1D4C6F-8993-4997-9054-EFB406FC6B51}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinIssueAzureFunctionV3", "src\GremlinIssueAzureFunctionV3\GremlinIssueAzureFunctionV3.csproj", "{FF9E6EAB-0DC0-45A8-B4B9-78828817AE1F}"
